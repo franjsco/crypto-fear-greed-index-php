@@ -28,10 +28,10 @@ $data = $client->getData();
 
 Data example: 
 ```php
-array(4) {
-  ["value"]=> string(2) "20"
-  ["value_classification"]=> string(12) "Extreme Fear"
-  ["timestamp"]=> string(10) "1632960000"
-  ["time_until_update"]=> string(5) "29024"
-}
+[
+  "value" => "20",
+  "value_classification" => "Extreme Fear",
+  "timestamp" => "1632960000",
+  "time_until_update" => "28139",
+]
 ```
