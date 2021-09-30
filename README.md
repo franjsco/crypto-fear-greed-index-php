@@ -26,16 +26,12 @@ $data = $client->getData();
 ```
 
 
-Return: 
+Return example: 
 ```php
 array(4) {
-  ["value"]=>
-  string(2) "20"
-  ["value_classification"]=>
-  string(12) "Extreme Fear"
-  ["timestamp"]=>
-  string(10) "1632960000"
-  ["time_until_update"]=>
-  string(5) "29024"
+  ["value"]=> string(2) "20"
+  ["value_classification"]=> string(12) "Extreme Fear"
+  ["timestamp"]=> string(10) "1632960000"
+  ["time_until_update"]=> string(5) "29024"
 }
 ```
