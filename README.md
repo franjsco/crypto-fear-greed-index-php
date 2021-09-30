@@ -26,7 +26,7 @@ $data = $client->getData();
 ```
 
 
-Return example: 
+Data example: 
 ```php
 array(4) {
   ["value"]=> string(2) "20"
